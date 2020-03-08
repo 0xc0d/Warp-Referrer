@@ -1,5 +1,5 @@
 # Warp-Referrer
-A script use warp "Bug" to add 3GB per minutes to your account
+A script use warp "Bug" to add 3 GB data per minute to your account
 
 # Run on repl.it
 [![Run on Repl.it](https://repl.it/badge/github/Aggr3ssor/Warp-Referrer)](https://repl.it/github/Aggr3ssor/Warp-Referrer)
