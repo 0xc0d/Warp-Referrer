@@ -14,7 +14,7 @@ def genString(stringLength):
     letters = string.ascii_letters + string.digits
     return ''.join(random.choice(letters) for i in range(stringLength))
 
-ver = 'v0a745'
+ver = 'v0a848'
 url = f'https://api.cloudflareclient.com/{ver}/reg'
 
 def run():
